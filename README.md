@@ -1,4 +1,4 @@
-# gmaz10: Global Map Azerbaijan 2.0
+# gmaz20: Global Map Azerbaijan 2.0
 ## non-commercial use
 ![attribution](https://globalmaps.github.io/globalmaps/attribution.png)
 ## commercial use

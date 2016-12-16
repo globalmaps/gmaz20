@@ -9,4 +9,4 @@ Credit: GlobalMap of The Republic of Azerbaijan © ISCGM State Committee Land an
 
 Contact: State Committee Land and Cartography.
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/azerbaijan.png)
+E-mail: ![email](email.png)
